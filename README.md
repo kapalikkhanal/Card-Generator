@@ -45,6 +45,7 @@ Card-Generator is a web application built with Next.js and React.js that allows 
 5. Start the client and server simultaneously: `npm run dev` (inside the project root)
 
 The application will be accessible at `http://localhost:3000`.
+![Card-Generator Image]([path/to/your/image.png](https://github-production-user-asset-6210df.s3.amazonaws.com/95576601/285701677-fe61d02e-f86d-4dc5-92e1-6dda51dccbf4.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231127T015844Z&X-Amz-Expires=300&X-Amz-Signature=305c6cae0c631e092de20c22e5bb76948bc2af0df4151dae8e6d80993a05d99d&X-Amz-SignedHeaders=host&actor_id=95576601&key_id=0&repo_id=723559045)https://github-production-user-asset-6210df.s3.amazonaws.com/95576601/285701677-fe61d02e-f86d-4dc5-92e1-6dda51dccbf4.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231127%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231127T015844Z&X-Amz-Expires=300&X-Amz-Signature=305c6cae0c631e092de20c22e5bb76948bc2af0df4151dae8e6d80993a05d99d&X-Amz-SignedHeaders=host&actor_id=95576601&key_id=0&repo_id=723559045)
 
 ## Development
 
